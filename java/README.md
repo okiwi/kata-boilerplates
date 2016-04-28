@@ -1,6 +1,4 @@
-Fizz Buzz du Printemps
+<nom de projet>
 ======================
 
-Petit FizzBuzz en Java pour debuter quelques nouveaux et s'entrainer les vieux
 
-Merci Anthony, Kevin, Lan, Thierry et Fred !
